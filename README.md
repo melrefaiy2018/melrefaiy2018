@@ -16,11 +16,3 @@ I am a Ph.D. candidate at The University of Texas at Austin, specializing in com
 -   **Website:** https://www.mohamedelrefaiy.com
 -   **LinkedIn:** https://www.linkedin.com/in/melrefaiy/
 
-
-<!-- GitHub Stats -->
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melrefaiy2018&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Mohamed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melrefaiy2018&layout=compact&langs_count=8&theme=dracula" alt="Mohamed's Top Languages" />
-</p>
