@@ -28,6 +28,7 @@ Currently open to **software engineering** and **data science** roles.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**kairos**](https://github.com/mohamedelrefaiy/kairos) | Turns a job description into a tailored, ATS-clean, advisor-reviewed CV PDF — without the AI-written smell | `Claude Code` `HTML` `AI` |
 | [**Alprotein**](https://github.com/mohamedelrefaiy/Alprotein) | Modular toolkit for excitonic Hamiltonians and optical spectra of molecular aggregates | `Python` `NumPy` `SciPy` |
 | [**NeuralFinance**](https://github.com/mohamedelrefaiy/NeuralFinance) | Neural network package for financial time-series analysis and prediction | `Python` `PyTorch` `Pandas` |
 | [**publication-scripts**](https://github.com/mohamedelrefaiy/publication-scripts) | Reproducible analysis workflows and code supporting my peer-reviewed research papers | `Python` `Jupyter` |
