@@ -32,7 +32,6 @@ Currently open to **software engineering** and **data science** roles.
 | [**NeuralFinance**](https://github.com/mohamedelrefaiy/NeuralFinance) | Neural network package for financial time-series analysis and prediction | `Python` `PyTorch` `Pandas` |
 | [**publication-scripts**](https://github.com/mohamedelrefaiy/publication-scripts) | Reproducible analysis workflows and code supporting my peer-reviewed research papers | `Python` `Jupyter` |
 | [**pdbtoolkits**](https://github.com/mohamedelrefaiy/pdbtoolkits) | Python toolkit for parsing and analyzing PDB protein structure files | `Python` `Bioinformatics` |
-| [**DebtCrusher**](https://github.com/mohamedelrefaiy/DebtCrusher) | Smart personal finance dashboard for optimized credit card debt repayment | `TypeScript` `React` |
 
 ---
 
