@@ -28,11 +28,11 @@ Currently open to **software engineering** and **data science** roles.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Alprotein**](https://github.com/melrefaiy2018/Alprotein) | Modular toolkit for excitonic Hamiltonians and optical spectra of molecular aggregates | `Python` `NumPy` `SciPy` |
-| [**NeuralFinance**](https://github.com/melrefaiy2018/NeuralFinance) | Neural network package for financial time-series analysis and prediction | `Python` `PyTorch` `Pandas` |
-| [**publication-scripts**](https://github.com/melrefaiy2018/publication-scripts) | Reproducible analysis workflows and code supporting my peer-reviewed research papers | `Python` `Jupyter` |
-| [**pdbtoolkits**](https://github.com/melrefaiy2018/pdbtoolkits) | Python toolkit for parsing and analyzing PDB protein structure files | `Python` `Bioinformatics` |
-| [**DebtCrusher**](https://github.com/melrefaiy2018/DebtCrusher) | Smart personal finance dashboard for optimized credit card debt repayment | `TypeScript` `React` |
+| [**Alprotein**](https://github.com/mohamedelrefaiy/Alprotein) | Modular toolkit for excitonic Hamiltonians and optical spectra of molecular aggregates | `Python` `NumPy` `SciPy` |
+| [**NeuralFinance**](https://github.com/mohamedelrefaiy/NeuralFinance) | Neural network package for financial time-series analysis and prediction | `Python` `PyTorch` `Pandas` |
+| [**publication-scripts**](https://github.com/mohamedelrefaiy/publication-scripts) | Reproducible analysis workflows and code supporting my peer-reviewed research papers | `Python` `Jupyter` |
+| [**pdbtoolkits**](https://github.com/mohamedelrefaiy/pdbtoolkits) | Python toolkit for parsing and analyzing PDB protein structure files | `Python` `Bioinformatics` |
+| [**DebtCrusher**](https://github.com/mohamedelrefaiy/DebtCrusher) | Smart personal finance dashboard for optimized credit card debt repayment | `TypeScript` `React` |
 
 ---
 
@@ -75,7 +75,7 @@ Currently open to **software engineering** and **data science** roles.
 
 My research bridges quantum chemistry and software engineering — I write production-quality Python packages to model the physics of molecular systems, then validate them against experimental data.
 
-See my [publication scripts](https://github.com/melrefaiy2018/publication-scripts) for reproducible code accompanying my papers.
+See my [publication scripts](https://github.com/mohamedelrefaiy/publication-scripts) for reproducible code accompanying my papers.
 
 ---
 
