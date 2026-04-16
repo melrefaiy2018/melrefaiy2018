@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-mohamedelrefaiy.com-0A66C2?style=flat&logo=globe&logoColor=white)](https://www.mohamedelrefaiy.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-melrefaiy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melrefaiy/)
-[![Email](https://img.shields.io/badge/Email-biovantageai%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:biovantageai@gmail.com)
+[![Email](https://img.shields.io/badge/Email-moelrefaiy%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:moelrefaiy@gmail.com)
 
 </div>
 
@@ -30,9 +30,9 @@ Currently open to **software engineering** and **data science** roles.
 |---------|-------------|-------|
 | [**Alprotein**](https://github.com/melrefaiy2018/Alprotein) | Modular toolkit for excitonic Hamiltonians and optical spectra of molecular aggregates | `Python` `NumPy` `SciPy` |
 | [**NeuralFinance**](https://github.com/melrefaiy2018/NeuralFinance) | Neural network package for financial time-series analysis and prediction | `Python` `PyTorch` `Pandas` |
-| [**CV-Tailor**](https://github.com/melrefaiy2018/CV-Tailor) | AI-assisted tool that reads job postings and produces tailored CVs — locally, privacy-first | `TypeScript` `LLM` |
 | [**publication-scripts**](https://github.com/melrefaiy2018/publication-scripts) | Reproducible analysis workflows and code supporting my peer-reviewed research papers | `Python` `Jupyter` |
 | [**pdbtoolkits**](https://github.com/melrefaiy2018/pdbtoolkits) | Python toolkit for parsing and analyzing PDB protein structure files | `Python` `Bioinformatics` |
+| [**DebtCrusher**](https://github.com/melrefaiy2018/DebtCrusher) | Smart personal finance dashboard for optimized credit card debt repayment | `TypeScript` `React` |
 
 ---
 
@@ -76,18 +76,6 @@ Currently open to **software engineering** and **data science** roles.
 My research bridges quantum chemistry and software engineering — I write production-quality Python packages to model the physics of molecular systems, then validate them against experimental data.
 
 See my [publication scripts](https://github.com/melrefaiy2018/publication-scripts) for reproducible code accompanying my papers.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melrefaiy2018&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melrefaiy2018&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
-
-</div>
 
 ---
 
