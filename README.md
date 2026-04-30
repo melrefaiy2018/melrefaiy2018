@@ -28,6 +28,7 @@ Currently open to **software engineering** and **data science** roles.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**FlowSpace**](https://github.com/mohamedelrefaiy/flowspace) | Unified Google Workspace dashboard with an AI agent that reads, writes, and acts across Drive, Gmail, Calendar, and Tasks | `TypeScript` `Node` `Claude API` `Google APIs` |
 | [**kairos**](https://github.com/mohamedelrefaiy/kairos) | Turns a job description into a tailored, ATS-clean, advisor-reviewed CV PDF — without the AI-written smell | `Claude Code` `HTML` `AI` |
 | [**Alprotein**](https://github.com/mohamedelrefaiy/Alprotein) | Modular toolkit for excitonic Hamiltonians and optical spectra of molecular aggregates | `Python` `NumPy` `SciPy` |
 | [**NeuralFinance**](https://github.com/mohamedelrefaiy/NeuralFinance) | Neural network package for financial time-series analysis and prediction | `Python` `PyTorch` `Pandas` |
