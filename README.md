@@ -2,9 +2,9 @@
 
 # Mohamed Elrefaiy
 
-**Ph.D. Candidate · Computational Scientist · Software Engineer**
+**I build AI agents that do real work — and quantum models that describe real physics.**
 
-*Building software at the intersection of science and engineering — from molecular simulations to AI-powered tools*
+Ph.D. Candidate at UT Austin · Software Engineer · Vibe coder
 
 [![Website](https://img.shields.io/badge/Website-mohamedelrefaiy.com-0A66C2?style=flat&logo=globe&logoColor=white)](https://www.mohamedelrefaiy.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-melrefaiy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melrefaiy/)
@@ -14,74 +14,77 @@
 
 ---
 
-## About
-
-I'm a Ph.D. candidate at **The University of Texas at Austin**, where my research focuses on computational modeling of molecular systems — building quantum mechanical models, running simulations, and writing software to extract meaning from complex scientific data.
-
-Outside of academia, I build software that solves real problems: AI-powered job application tools, personal finance dashboards, and open-source Python packages for the scientific community.
+By day I model quantum systems at the molecular scale. By night I ship AI-powered tools that solve problems I actually have — an agent that controls my Google Workspace, a tool that turns job descriptions into tailored CVs without sounding like AI wrote them, and open-source packages used by other researchers.
 
 Currently open to **software engineering** and **data science** roles.
 
 ---
 
-## Featured Projects
+## What I'm building
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**FlowSpace**](https://github.com/mohamedelrefaiy/flowspace) | Unified Google Workspace dashboard with an AI agent that reads, writes, and acts across Drive, Gmail, Calendar, and Tasks | `TypeScript` `Node` `Claude API` `Google APIs` |
-| [**kairos**](https://github.com/mohamedelrefaiy/kairos) | Turns a job description into a tailored, ATS-clean, advisor-reviewed CV PDF — without the AI-written smell | `Claude Code` `HTML` `AI` |
-| [**Alprotein**](https://github.com/mohamedelrefaiy/Alprotein) | Modular toolkit for excitonic Hamiltonians and optical spectra of molecular aggregates | `Python` `NumPy` `SciPy` |
-| [**NeuralFinance**](https://github.com/mohamedelrefaiy/NeuralFinance) | Neural network package for financial time-series analysis and prediction | `Python` `PyTorch` `Pandas` |
-| [**publication-scripts**](https://github.com/mohamedelrefaiy/publication-scripts) | Reproducible analysis workflows and code supporting my peer-reviewed research papers | `Python` `Jupyter` |
-| [**pdbtoolkits**](https://github.com/mohamedelrefaiy/pdbtoolkits) | Python toolkit for parsing and analyzing PDB protein structure files | `Python` `Bioinformatics` |
+### [FlowSpace](https://github.com/mohamedelrefaiy/flowspace) — Google Workspace, unified
+
+An AI agent with 23 tools that reads, writes, and acts across your Drive, Gmail, Calendar, and Tasks. Not a chatbot — it actually sends emails, creates events, and finds documents. Write operations go through an approval step so you stay in control.
+
+<img src="https://raw.githubusercontent.com/mohamedelrefaiy/flowspace/main/docs/assets/readme/dashboard.png" alt="FlowSpace dashboard" width="100%" />
+
+`TypeScript` `Node` `Claude API` `Google APIs`
+
+---
+
+### [kairos](https://github.com/mohamedelrefaiy/kairos) — Puts your potential into words
+
+Most people undersell themselves not because they lack the work, but because they can't articulate it. kairos helps you surface what you've actually done, find the thread that connects it, and translate that into a tailored CV that reveals who you really are — not a polished version of someone else.
+
+`Claude Code` `HTML` `Prompt Engineering`
+
+---
+
+### Scientific software
+
+| Project | What it does |
+|---------|-------------|
+| [**Alprotein**](https://github.com/mohamedelrefaiy/Alprotein) | Excitonic Hamiltonians and optical spectra for molecular aggregates |
+| [**NeuralFinance**](https://github.com/mohamedelrefaiy/NeuralFinance) | Neural networks for financial time-series prediction |
+| [**pdbtoolkits**](https://github.com/mohamedelrefaiy/pdbtoolkits) | PDB protein structure parsing and analysis |
+| [**publication-scripts**](https://github.com/mohamedelrefaiy/publication-scripts) | Reproducible code from my peer-reviewed papers |
 
 ---
 
 ## Skills
 
-**Languages**
+**Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**ML / Data Science**
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-**Scientific Computing**
-
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-
-**Tools & Cloud**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+**AI Engineering**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6366F1?style=flat&logo=openai&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-0EA5E9?style=flat&logo=terminal&logoColor=white)
+![SpecKit](https://img.shields.io/badge/SpecKit-10B981?style=flat&logo=checkmarx&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-7C3AED?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
 ## Research
 
 **The University of Texas at Austin** — Ph.D. Candidate  
-*Computational modeling of molecular aggregates, quantum mechanical simulations, optical spectra analysis*
+*Quantum mechanical modeling of molecular aggregates · optical spectra · excitonic systems*
 
-My research bridges quantum chemistry and software engineering — I write production-quality Python packages to model the physics of molecular systems, then validate them against experimental data.
+I write production-quality Python packages to model the physics of light-harvesting molecular systems, then validate them against experimental data. The code ships as open-source; the results go into journals.
 
-See my [publication scripts](https://github.com/mohamedelrefaiy/publication-scripts) for reproducible code accompanying my papers.
+→ [Reproducible code from my papers](https://github.com/mohamedelrefaiy/publication-scripts)
 
 ---
 
 <div align="center">
 
-*Open to collaborations in scientific software, AI/ML, and data-driven research.*
+*Want to collaborate or just talk shop? [Reach out.](mailto:moelrefaiy@gmail.com)*
 
 </div>
